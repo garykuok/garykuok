@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @garykuok from Macau, a master student at the Technical University of Munich (TUM)
-- 👀 I’m interested in Python 3 programming (e.g., ML, CV, web apps) and cloud architectures (e.g., Hadoop, Spark, Docker, etc.), DevOps
+- 👀 I’m interested in Python 3 programming (e.g., ML, CV, web apps) and cloud architectures (e.g., Hadoop, Spark, Docker, etc.), DevOps, Linux system administration
 - 🌱 I’m currently learning new containerization environment such as Charliecloud and Singularity
-- 💞️ I’m looking to collaborate on cloud computing related projects
+- 💞️ I’m looking for collaboration on cloud computing related projects
 - 📫 You can reach me with my personal email "macuilxochitlgary" "at" "gmail" "dot" "com"
 
 <!---
