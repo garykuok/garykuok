@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning new containerization environment such as Charliecloud and Singularity
 - 💞️ I’m looking for collaboration on cloud computing related projects
 - 📫 You can reach me with my personal email "macuilxochitlgary" "at" "gmail" "dot" "com"
-- <img src="https://img.icons8.com/material-rounded/24/000000/linkedin--v1.png"/> My updated info is at [LinkedIn Page](https://www.linkedin.com/in/chon-kit-kuok-a6b3a6215/)
+- <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> Check more info at [LinkedIn Page](https://www.linkedin.com/in/chon-kit-kuok-a6b3a6215/)
 
 <!---
 garykuok/garykuok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
